@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Days 8-10: Standalone components and home view](https://dev.to/ajanecka/days-8-10-standalone-components-and-home-view-50c9)
+- [My plan on self improvement](https://medium.com/@ajanecka97/my-plan-on-self-improvement-164b18369a84?source=rss-6db1f476db69------2)
+- [My first week of #100DaysOfCode challenge!](https://dev.to/ajanecka/my-first-week-of-100daysofcode-challenge-1clj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
