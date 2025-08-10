@@ -20,7 +20,7 @@
 - [Lessons learned from Psychology of Money](https://medium.com/@ajanecka97/lessons-learned-from-psychology-of-money-248a1980ecc9?source=rss-6db1f476db69------2)
 - [3 simple habits that saved my finance and weight at the same time!](https://medium.com/@ajanecka97/3-simple-habits-that-saved-my-finance-and-weight-at-the-same-time-a64e40989afa?source=rss-6db1f476db69------2)
 - [My current and future Atomic Habits](https://medium.com/@ajanecka97/my-current-and-future-atomic-habits-8423ea3de395?source=rss-6db1f476db69------2)
-- [Days 8-10: Standalone components and home view](https://forem.com/ajanecka/days-8-10-standalone-components-and-home-view-50c9)
+- [Days 8-10: Standalone components and home view](https://dev.to/ajanecka/days-8-10-standalone-components-and-home-view-50c9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
